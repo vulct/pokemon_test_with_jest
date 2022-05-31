@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PokemonList should render without crashing 1`] = `
+<div
+  className=""
+>
+  <section
+    className="pokemon-list-container"
+  >
+    <p
+      className="pokemon-name"
+    />
+    <img
+      alt="pokemon"
+    />
+  </section>
+</div>
+`;

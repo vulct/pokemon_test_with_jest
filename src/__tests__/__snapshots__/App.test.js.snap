@@ -1,0 +1,59 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should test App component 1`] = `
+<div
+  className="App"
+>
+  <div
+    className="container"
+  >
+    <div
+      className="pokemon-header"
+    >
+      Pokemon
+    </div>
+    <PokemonCollection
+      pokemons={Array []}
+    />
+    <div
+      className="btn"
+    >
+      <button
+        className="loadmore"
+        onClick={[Function]}
+      >
+        Loading
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`snapshot App component 1`] = `
+<div
+  className="App"
+>
+  <div
+    className="container"
+  >
+    <div
+      className="pokemon-header"
+    >
+      Pokemon
+    </div>
+    <PokemonCollection
+      pokemons={Array []}
+    />
+    <div
+      className="btn"
+    >
+      <button
+        className="loadmore"
+        onClick={[Function]}
+      >
+        Loading
+      </button>
+    </div>
+  </div>
+</div>
+`;
